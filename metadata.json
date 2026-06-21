@@ -1,0 +1,8 @@
+{
+  "name": "Remix: NEO_FIT",
+  "description": "Premium retro-futuristic workout scheduler and active session tracking grid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
